@@ -1,0 +1,3 @@
+This repository is a list of source code that can be found on my blog, http://tutpi.wordpress.com.
+
+Most of it (at least for the forseeable future) will be Lisp dialects and Haskell, because C++ and other imperitive blogs are saturated with content. The directories are linked to from tutpi, but the "link" file in each repository will point to my blog post.
