@@ -6,6 +6,6 @@ Terminal=false
 Type=Application
 Name=Minecraft
 Exec=bash -c "cd /usr/java/jre*; bin/java -jar ~/Downloads/Minecraft.jar"
-Icon=/home/nate/Downloads/minecraft.png
+Icon=~/Downloads/minecraft.png
 NoDisplay=true
 Name[en_US]=Minecraft
